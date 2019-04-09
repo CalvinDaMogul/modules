@@ -1,3 +1,7 @@
 body {
 background-color: azure;
 }
+
+.book-cover {
+     height: 300px;
+}
